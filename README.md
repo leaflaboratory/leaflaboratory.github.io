@@ -1,7 +1,7 @@
 ## Welcome to the LEAF Laboratory
 
 The LEAF laboratory works with a multidisciplinary team at the Federal University of Ouro Preto. It is coordinated by Dr. Servio P. Ribeiro.
-You can check his work from his [Lattes](http://lattes.cnpq.br/0415561263095335) or [ResearchGate](https://www.researchgate.net/profile/Servio-Ribeiro) pages.
+You can check his work on his [Lattes](http://lattes.cnpq.br/0415561263095335) or [ResearchGate](https://www.researchgate.net/profile/Servio-Ribeiro) pages.
 
 ### Articles produced by the “Forest Insect Ecology” in the LTER Vale do Rio Doce, Brazil
 
