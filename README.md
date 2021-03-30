@@ -5,7 +5,7 @@ You can check his work on his [Lattes](http://lattes.cnpq.br/0415561263095335) o
 
 ### Articles produced by the “Forest Insect Ecology” in the LTER Vale do Rio Doce, Brazil
 
-Reprints: please request to [serviopr@gmail.com](serviopr@gmail.com).
+Reprints: please request to <serviopr@gmail.com>.
 
 1. LOURENÇO, G. M.; LUNA, P.; GUEVARA, R.; DÁTTILO, W.; FREITAS, A. V. L.; RIBEIRO, S. P. Temporal shifts in butterfly diversity: responses to natural and anthropic forest transitions. JOURNAL OF INSECT CONSERVATION.  v.24, p.353 - 363, 2020.
 
